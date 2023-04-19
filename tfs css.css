@@ -1,0 +1,30 @@
+.table input[type=number] {
+  width: 100%;
+}
+
+.stat {
+  width:50px;
+  vertical-align:middle;
+}
+
+.btn {
+  border-radius:5px;
+}
+
+.center-me {
+  text-align:center;
+}
+
+.dice {
+  vertical-align:middle;
+}
+
+.container {
+  max-width:75%;
+}
+
+select {
+  padding:4px;
+  min-width:50px;
+  vertical-align:middle;
+}
